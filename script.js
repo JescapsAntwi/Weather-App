@@ -127,3 +127,5 @@ cityInput.addEventListener(
   "keyup",
   (e) => e.key === "Enter" && getCityCoordinates()
 );
+
+//the fuck committttt
