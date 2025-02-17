@@ -127,14 +127,3 @@ cityInput.addEventListener(
   "keyup",
   (e) => e.key === "Enter" && getCityCoordinates()
 );
-
-//the fuck committttt
-//Okay now the changes are staged and being shown on github
-//The files are being updated now
-//thisis nicee to see
-//I love javascript
-//JS is better than python for realllll
-//I need to lock in on leetcode
-//DSA is very interesting. I need to master it
-//I need to create a DSA learning plan frrrr
-//this is the last commit
