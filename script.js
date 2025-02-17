@@ -132,3 +132,4 @@ cityInput.addEventListener(
 //Okay now the changes are staged and being shown on github
 //The files are being updated now
 //thisis nicee to see
+//I love javascript
