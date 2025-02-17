@@ -136,3 +136,4 @@ cityInput.addEventListener(
 //JS is better than python for realllll
 //I need to lock in on leetcode
 //DSA is very interesting. I need to master it
+//I need to create a DSA learning plan frrrr
